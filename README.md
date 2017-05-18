@@ -1,6 +1,7 @@
 # Web-pet-clinic-No-Hibernet-No-Spring
-Java+Web+DataBase
-Here what it is look like...for current moment
+***Java+Web+DataBase
+
+***Here what it is look like...for current moment
 
 **Viewing page**
 ![Viewing page](https://cloud.githubusercontent.com/assets/23385984/26190459/48e377b2-3bb2-11e7-98f3-e84afddce3ac.png)
